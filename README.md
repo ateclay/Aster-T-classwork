@@ -1,2 +1,4 @@
 # Aster-Teclay-Portfolio
-https://ateclay.github.io/Aster-T-classwork/
+# About Me
+# What I hope to learn
+# Portfolio 
