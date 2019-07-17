@@ -6,3 +6,10 @@ I hope to leverage the knowledge  gained in this course to enhance my project ma
 # Portfolio 
 https://datawrapper.dwcdn.net/o1q6z/1/
 https://docs.google.com/spreadsheets/d/12wCKTMyC20Hf7n7j4amyqST-8wGNaNw1Q2G8jOCAAIA/edit#gid=747157950
+Assigment 2 Center for Budget and Policy Priorities  
+https://docs.google.com/spreadsheets/d/1A4clMj0wrW2wPSRC34Lrgo_kAg8ldlH8YrS4c_Eb08k/edit#gid=509368585
+https://docs.google.com/spreadsheets/d/1KHQgfZAg1v31RzZTxnNN9MzwDDEk_f7OanayiHnMJe8/edit#gid=509368585
+OIG Report 
+https://infogram.com/visualization-2-1h7j4d0o15zd2nr?live
+OIG Report Part 2
+https://infogram.com/oig-report-part-2-1hzj4oqvkldd2pw?live
