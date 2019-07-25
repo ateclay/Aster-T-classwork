@@ -9,7 +9,7 @@ I hope to leverage the knowledge  gained in this course to enhance my project ma
 # Data Wrapper
 
 # Data Visualization Critique 2 
-https://www.cbpp.org/research/federal-budget/new-budget-deal-needed-to-avert-cuts-invest-in-national-priorities 
+ 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTjPdtF_DTycdVkwo1iUNe-JGGEIMPNFZFYu4OsoUEsC_xcSrgkeMixd0hXBxybupHu4gJjTQ_zFLGu/pubhtml?widget=true&amp;headers=false"></iframe>
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSswwADBOLhpgyZELUjmPf7pHU3x7hyzqKzQeaHI_CUFSuPbdA1gVAt20iztSjwE6i2Ps8QaA2A9jU1/pubhtml?widget=true&amp;headers=false"></iframe>
 # OIG Report 
