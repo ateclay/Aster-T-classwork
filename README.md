@@ -35,12 +35,12 @@ Key dates & final deadline:
 8/1- draft relevant graphs
 8/3-draft slide deck and narratives
 
-Challenges
+Challenges:
 Large data sets/some files contain personal information 
 Ability to get accurate sales price data
 Ability to obtain address information 
 
-Project summary
+Project summary:
 Despite rising housing costs, low to moderate income households are still purchasing homes.
 
 Project structure
