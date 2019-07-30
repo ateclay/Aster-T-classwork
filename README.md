@@ -46,6 +46,7 @@ Despite rising housing costs, low to moderate income households are still purcha
 Project structure
 Real estate market in Pittsburgh
 Income break out/change in Pittsburgh
+
 Average home purchase price  
 Resources for LMI homebuyers 
 Sales data for  LMI (amt, location,ect)
@@ -57,4 +58,4 @@ Median income information for households
 Successful closings 
 
 [this is the link text](/test.md)
-[TITLE OF LINK](#)
+[TITLE OF LINK](https://ateclay.github.io/Aster-T-classwork/FINAL/)
