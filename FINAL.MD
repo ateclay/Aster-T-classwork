@@ -16,3 +16,10 @@ Another main point was the need for context. I could make a stronger call to act
 # Persona 
 [persona](https://ateclay.github.io/Aster-T-classwork/buyer persona.pdf)
 # WIREFRAME 
+Page one:intro, chart , chart
+
+Page Two:
+
+Page Three:
+
+Page Four:
