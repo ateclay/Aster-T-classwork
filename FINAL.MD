@@ -14,5 +14,5 @@ Another main point was the need for context. I could make a stronger call to act
 # Mood Board 
 ![Mood Board](https://ateclay.github.io/Aster-T-classwork/3,000,000,000.jpg)
 # Persona 
-![persona](https://ateclay.github.io/Aster-T-classwork/buyerpersona.jpg)
+![persona](https://ateclay.github.io/Aster-T-classwork/buyer persona.jpg)
 # WIREFRAME 
