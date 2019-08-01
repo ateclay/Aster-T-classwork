@@ -17,8 +17,9 @@ Another main point was the need for context. I could make a stronger call to act
 [persona](https://ateclay.github.io/Aster-T-classwork/buyer persona.pdf)
 # WIREFRAME 
 Page one:intro, chart , chart
-
-Page Two:
+![part 1](https://ateclay.github.io/Aster-T-classwork/1.jpg.HEIC)
+Page 
+Two:
 
 Page Three:
 
