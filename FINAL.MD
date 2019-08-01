@@ -18,4 +18,4 @@ Another main point was the need for context. I could make a stronger call to act
 # WIREFRAME 
 [WIRE FRAME](https://ateclay.github.io/Aster-T-classwork/WIRE FRAME.pdf)
 
- [WIRE FRAME](https://ateclay.github.io/Aster-T-classwork/WIRE FRAME.pdf)
+[WIRE FRAME](https://ateclay.github.io/Aster-T-classwork/WIRE FRAME.pdf)
