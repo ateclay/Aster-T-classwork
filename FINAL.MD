@@ -19,3 +19,4 @@ Another main point was the need for context. I could make a stronger call to act
 [WIRE FRAME](https://ateclay.github.io/Aster-T-classwork/WIRE FRAME.pdf)
 
 [FRAME](https://ateclay.github.io/Aster-T-classwork/FRAME.pdf)
+[WF](https://ateclay.github.io/Aster-T-classwork/WIRE FRAME.PDF)
