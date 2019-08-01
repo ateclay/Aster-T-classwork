@@ -16,5 +16,5 @@ Another main point was the need for context. I could make a stronger call to act
 # Persona 
 [persona](https://ateclay.github.io/Aster-T-classwork/buyer persona.pdf)
 # WIREFRAME 
-[wireframe link](https://ateclay.github.io/Aster-T-classwork/WIRE FRAME.pdf)
+[WIRE FRAME](https://ateclay.github.io/Aster-T-classwork/WIRE FRAME.pdf)
 
