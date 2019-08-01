@@ -8,7 +8,7 @@ Program Manager-Denana Vaughn
 Americorp Intern- Jamie Parke
 Current homebuyer- Name cannot be disclosed 
 During the feedback sessions I was able to find solutions to a few design issues I confirmed what items I should emphasis and how to better convey my story to the primary stakeholder. A consistent point throughout  all three interviews was the need for better labels and consistent titles and subheading. Also there was a lack of clarity concerning the audience. It was unclear who the presentation was intend for. Until the call for action the story seems unfocused. 
-Another main point was the need for context. I could make a stronger call to action if I could provide compassion data from past years. I could even focus on one data point or trend to show the drastic increase in home purchases in 2018.[Feedback Script](https://ateclay.github.io/Aster-T-classwork/SCRIPT.pdf)
+Another main point was the need for context. I could make a stronger call to action if I could provide compassion data from past years. I could even focus on one data point or trend to show the drastic increase in home purchases in 2018.[Feedback Script link](https://ateclay.github.io/Aster-T-classwork/SCRIPT.pdf)
 # Sample Data Visuals
 ![infogram](https://ateclay.github.io/Aster-T-classwork/aFFORDABILITY.png)
 # Mood Board 
