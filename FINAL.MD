@@ -20,6 +20,30 @@ Another main point was the need for context. I could make a stronger call to act
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQI6WAQC9ZMvlrUVJiKIu18q4Wij3eW6tNaZ0vivjUL-Jec5M8TjXDiieiAoQ9NO8Tttnb75Xp4lG-4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 [FRAME](https://ateclay.github.io/Aster-T-classwork/FRAME.pdf)
 [WF](https://ateclay.github.io/Aster-T-classwork/WIRE FRAME.PDF)
+
+# Final Data Story 
+
+The purpose of the homeownership program is to support low-income families and Section 8 Housing Choice Voucher holders in the home buying process. In order to support its population, the Housing Authority of the City of Pittsburgh (HACP) has partnered with other organizations in order to provide educational and financially supportive components to the program. In order to provide this essential resources there must be adequate funding to maintain program cost as the program expands and more families seek support in attaining homeownership.
+
+# The Audience:
+
+The main audience are the decision makers. The HACP Executive Director and the Board of Commissioners. They approve the annual operating budget and allocation of funds. Currently only $500,000 is allocated annual to the Homeownership program. In 2018 total program costs were over $400,000 and would have exceeded the budgeted amount if delays in real estate transactions toward the end of the year hadn't occurred. It’s clear the program is growing and in addition to capital for housing assistance there will need to be long term investment in the program. The Board of Commissioners has a high level view of the program and providing them with the data expressing the rapid increase in total market cost and relating it to the demographic profile of eligible participants will help to humanize the numbers
+
+# The Design:
+
+I wanted to make the data as clear as possible. Almost all of the information presented in HACP reports and Board meetings are publicly accessible. Also the Board and the ED must be able to stand firmly behind any financial or programmatic decision made on behalf of the authority. I focused on the rising housing costs and the profile of “who qualifies”. There is a misconception about the affordable housing and public resources. Many believe it's for people who don’t want to work or want to rely on the system. In actuality, many Pittsburgh households would qualify and are the intended recipients of the Homeownership program. I focused on several main data points such as income, home cost, program costs and affordability to move the story toward the call to action but also explain a complex housing issue in a digestible format. 
+
+
+# Sources:
+
+“2017 MTW Annual Report .” Public Information , 22 June 2018, hacp.org/about/public-information/.
+
+“2019 MTW Annual Plan .” Public Information, 06 June 2019, hacp.org/about/public-information/.
+
+Zillow, Inc. “Pittsburgh PA Home Prices & Home Values.” Zillow, 2019, www.zillow.com/pittsburgh-pa/home-values/.
+
+“FY 2019 Income Limits Documentation System.” FY 2018 Income Limits Documentation System -- Summary for $Inputname$, 2017, www.huduser.gov/portal/datasets/il/il2018/2018summary.odn.
+
 # short hand 
 <script src="https://embed.shorthand.com/embed_6.js"></script>
 <div data-shorthand-embed="carnegiemellon.shorthandstories.com/_hacp/"><h1>Affordable </h1><p>A short & sweet intro to the editor</p></div>
