@@ -27,7 +27,7 @@ The purpose of the homeownership program is to support low-income families and S
 
 # The Audience:
 
-The main audience are the decision makers. The HACP Executive Director and the Board of Commissioners. They approve the annual operating budget and allocation of funds. Currently only $500,000 is allocated annual to the Homeownership program. In 2018 total program costs were over $400,000 and would have exceeded the budgeted amount if delays in real estate transactions toward the end of the year hadn't occurred. It’s clear the program is growing and in addition to capital for housing assistance there will need to be long term investment in the program. The Board of Commissioners has a high level view of the program and providing them with the data expressing the rapid increase in total market cost and relating it to the demographic profile of eligible participants will help to humanize the numbers
+The main audience are the decision makers. The HACP Executive Director and the Board of Commissioners. They approve the annual operating budget and allocation of funds. Currently only $500,000 is allocated annualy to the Homeownership program. In 2018 total program costs were over $400,000 and would have exceeded the budgeted amount if delays in real estate transactions toward the end of the year hadn't occurred. It’s clear the program is growing and in addition to capital for housing assistance there will need to be long term investment in the program. The Board of Commissioners has a high level view of the program and providing them with the data expressing the rapid increase in total market cost and relating it to the demographic profile of eligible participants will help to humanize the numbers
 
 # The Design:
 
