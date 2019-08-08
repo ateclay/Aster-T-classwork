@@ -20,6 +20,6 @@ Another main point was the need for context. I could make a stronger call to act
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQI6WAQC9ZMvlrUVJiKIu18q4Wij3eW6tNaZ0vivjUL-Jec5M8TjXDiieiAoQ9NO8Tttnb75Xp4lG-4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 [FRAME](https://ateclay.github.io/Aster-T-classwork/FRAME.pdf)
 [WF](https://ateclay.github.io/Aster-T-classwork/WIRE FRAME.PDF)
-#short hand 
+# short hand 
 <script src="https://embed.shorthand.com/embed_6.js"></script>
 <div data-shorthand-embed="carnegiemellon.shorthandstories.com/_hacp/"><h1>Affordable </h1><p>A short & sweet intro to the editor</p></div>
