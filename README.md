@@ -13,8 +13,6 @@ I hope to leverage the knowledge  gained in this course to enhance my project ma
 
 
 
-
-https://docs.google.com/spreadsheets/d/e/2PACX-1vT3c6_3s9httNaE0yWzazpf53HjIpiDCLAVtMv1K36NmfsEVC9TQoaW3Qs5rcc4hdFL3qamHl50aOu4/pubhtml
 # Data Visualization Critique 2 
 
 Center for Budget and Policy Priories- https://www.cbpp.org/research/federal-budget/house-appropriations-actions-set-stage-for-battle-over-2020-funding-levels
