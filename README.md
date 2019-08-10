@@ -11,6 +11,7 @@ I hope to leverage the knowledge  gained in this course to enhance my project ma
 # Data Visualization Critique 2 
 <iframe width="629.5" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBufCQu1n2y161QOkMxxWT2PNlzmeXpePLMG-IDTSPpbWjx3OnbquI_gloLOowXCyEyNTeFuZ3tCm4/pubchart?oid=679074662&amp;format=interactive"></iframe> 
 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBufCQu1n2y161QOkMxxWT2PNlzmeXpePLMG-IDTSPpbWjx3OnbquI_gloLOowXCyEyNTeFuZ3tCm4/pubhtml?widget=true&amp;headers=false"></iframe>
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTjPdtF_DTycdVkwo1iUNe-JGGEIMPNFZFYu4OsoUEsC_xcSrgkeMixd0hXBxybupHu4gJjTQ_zFLGu/pubhtml?widget=true&amp;headers=false"></iframe>
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSswwADBOLhpgyZELUjmPf7pHU3x7hyzqKzQeaHI_CUFSuPbdA1gVAt20iztSjwE6i2Ps8QaA2A9jU1/pubhtml?widget=true&amp;headers=false"></iframe>
 
