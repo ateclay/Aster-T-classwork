@@ -11,9 +11,7 @@ I hope to leverage the knowledge  gained in this course to enhance my project ma
 # Data Visualization Critique 2 
 <iframe width="629.5" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBufCQu1n2y161QOkMxxWT2PNlzmeXpePLMG-IDTSPpbWjx3OnbquI_gloLOowXCyEyNTeFuZ3tCm4/pubchart?oid=679074662&amp;format=interactive"></iframe> 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBufCQu1n2y161QOkMxxWT2PNlzmeXpePLMG-IDTSPpbWjx3OnbquI_gloLOowXCyEyNTeFuZ3tCm4/pubhtml?widget=true&amp;headers=false"></iframe>
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTjPdtF_DTycdVkwo1iUNe-JGGEIMPNFZFYu4OsoUEsC_xcSrgkeMixd0hXBxybupHu4gJjTQ_zFLGu/pubhtml?widget=true&amp;headers=false"></iframe>
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSswwADBOLhpgyZELUjmPf7pHU3x7hyzqKzQeaHI_CUFSuPbdA1gVAt20iztSjwE6i2Ps8QaA2A9jU1/pubhtml?widget=true&amp;headers=false"></iframe>
+
 
 # OIG Report 
 <div class="infogram-embed" data-id="487d2f31-003d-4e8e-ac70-3025634c5dde" data-type="interactive" data-title="visualization # 2"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/487d2f31-003d-4e8e-ac70-3025634c5dde" style="color:#989898!important;text-decoration:none!important;" target="_blank">visualization # 2</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
