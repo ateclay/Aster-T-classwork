@@ -12,7 +12,7 @@ I hope to leverage the knowledge  gained in this course to enhance my project ma
 https://docs.google.com/spreadsheets/d/e/2PACX-1vT3c6_3s9httNaE0yWzazpf53HjIpiDCLAVtMv1K36NmfsEVC9TQoaW3Qs5rcc4hdFL3qamHl50aOu4/pubhtml
 # Data Visualization Critique 2 
 
-Center for Budget and Policy Priories 
+Center for Budget and Policy Priories- https://www.cbpp.org/research/federal-budget/house-appropriations-actions-set-stage-for-battle-over-2020-funding-levels
 
 The original graph exaggerated the difference year over from 2020-2021. By separating the data into two different visualizations and using a pie chart instead of a a stacked bar chart I was able to show the change in a more accurate visualization. The difference discretionary vs non discretionary spending  between 2020-and 2021 is much less in a proportionally than how it was conveyed using the bar graph.
 
