@@ -62,5 +62,4 @@ Average home buyer assistance
 Median income information for households
 Successful closings 
 
-[this is the link text](/test.md)
-[TITLE OF LINK](https://ateclay.github.io/Aster-T-classwork/FINAL/)
+
