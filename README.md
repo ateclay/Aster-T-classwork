@@ -6,6 +6,8 @@ I hope to leverage the knowledge  gained in this course to enhance my project ma
 # Portfolio 
 # Data Visualization Critique 1 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT3c6_3s9httNaE0yWzazpf53HjIpiDCLAVtMv1K36NmfsEVC9TQoaW3Qs5rcc4hdFL3qamHl50aOu4/pubhtml?widget=true&amp;headers=false"></iframe>
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBufCQu1n2y161QOkMxxWT2PNlzmeXpePLMG-IDTSPpbWjx3OnbquI_gloLOowXCyEyNTeFuZ3tCm4/pubchart?oid=424687397&amp;format=image"></iframe>
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBufCQu1n2y161QOkMxxWT2PNlzmeXpePLMG-IDTSPpbWjx3OnbquI_gloLOowXCyEyNTeFuZ3tCm4/pubchart?oid=424687397&amp;format=interactive"></iframe># Data Wrapper
 
 # Data Visualization Critique 2 
