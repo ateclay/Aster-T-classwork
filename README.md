@@ -10,6 +10,9 @@ I hope to leverage the knowledge  gained in this course to enhance my project ma
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT3c6_3s9httNaE0yWzazpf53HjIpiDCLAVtMv1K36NmfsEVC9TQoaW3Qs5rcc4hdFL3qamHl50aOu4/pubhtml?gid=747157950&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
+[link to good chart hw 1](https://docs.google.com/spreadsheets/d/e/2PACX-1vRBufCQu1n2y161QOkMxxWT2PNlzmeXpePLMG-IDTSPpbWjx3OnbquI_gloLOowXCyEyNTeFuZ3tCm4/pubhtml)
+
+
 
 
 https://docs.google.com/spreadsheets/d/e/2PACX-1vT3c6_3s9httNaE0yWzazpf53HjIpiDCLAVtMv1K36NmfsEVC9TQoaW3Qs5rcc4hdFL3qamHl50aOu4/pubhtml
