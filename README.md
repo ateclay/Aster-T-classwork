@@ -7,8 +7,7 @@ I hope to leverage the knowledge  gained in this course to enhance my project ma
 # Data Visualization Critique 1 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT3c6_3s9httNaE0yWzazpf53HjIpiDCLAVtMv1K36NmfsEVC9TQoaW3Qs5rcc4hdFL3qamHl50aOu4/pubhtml?widget=true&amp;headers=false"></iframe>
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT3c6_3s9httNaE0yWzazpf53HjIpiDCLAVtMv1K36NmfsEVC9TQoaW3Qs5rcc4hdFL3qamHl50aOu4/pubhtml?widget=true&amp;headers=false"></iframe>
-
+https://docs.google.com/spreadsheets/d/e/2PACX-1vT3c6_3s9httNaE0yWzazpf53HjIpiDCLAVtMv1K36NmfsEVC9TQoaW3Qs5rcc4hdFL3qamHl50aOu4/pubchart?oid=1189110383&format=image
 
 
 # Data Visualization Critique 2 
