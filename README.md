@@ -1,6 +1,6 @@
 # Aster Teclay-Portfolio
 # About Me
-My name is Aster Teclay and I'm completing my final semester in the  Master of Public Management (MPM) program at Heinz College. I'm originally from the D.C Metropolitan area but now call Pittsburgh home.
+My name is Aster Teclay and I'm completing my final semester in the  Master of Public Management (MPM) program at Heinz College. I'm originally from the D.C Metropolitan area but now call Pittsburgh home. 
 # What I hope to learn
 I hope to leverage the knowledge  gained in this course to enhance my project management skills.  I currently work in the public sector which requires me to interface with the public  and a variety of stakeholders.  I think the data visualizations tools will allow me to better communicate complex information in a more effective format.  
 # Portfolio 
@@ -11,6 +11,9 @@ I hope to leverage the knowledge  gained in this course to enhance my project ma
 
 https://docs.google.com/spreadsheets/d/e/2PACX-1vT3c6_3s9httNaE0yWzazpf53HjIpiDCLAVtMv1K36NmfsEVC9TQoaW3Qs5rcc4hdFL3qamHl50aOu4/pubhtml
 # Data Visualization Critique 2 
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBufCQu1n2y161QOkMxxWT2PNlzmeXpePLMG-IDTSPpbWjx3OnbquI_gloLOowXCyEyNTeFuZ3tCm4/pubhtml?widget=true&amp;headers=false"></iframe>
+
 
 
 # OIG Report 
