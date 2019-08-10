@@ -5,7 +5,6 @@ My name is Aster Teclay and I'm completing my final semester in the  Master of P
 I hope to leverage the knowledge  gained in this course to enhance my project management skills.  I currently work in the public sector which requires me to interface with the public  and a variety of stakeholders.  I think the data visualizations tools will allow me to better communicate complex information in a more effective format.  
 # Portfolio 
 # Data Visualization Critique 1 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT3c6_3s9httNaE0yWzazpf53HjIpiDCLAVtMv1K36NmfsEVC9TQoaW3Qs5rcc4hdFL3qamHl50aOu4/pubhtml?widget=true&amp;headers=false"></iframe>
 
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT3c6_3s9httNaE0yWzazpf53HjIpiDCLAVtMv1K36NmfsEVC9TQoaW3Qs5rcc4hdFL3qamHl50aOu4/pubhtml?gid=747157950&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
